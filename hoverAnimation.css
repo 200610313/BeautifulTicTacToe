@@ -1,0 +1,12 @@
+td {
+  border-style: solid;
+  border-color: transparent;
+  background-color: white;
+  opacity: 0;
+}
+.markP1 {
+  background-color: wheat;
+}
+.markP2 {
+  background-color: paleturquoise;
+}
